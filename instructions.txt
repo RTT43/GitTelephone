@@ -1,0 +1,3 @@
+Let's see if we can get everyone on this list.
+Add your name and username to the list.
+Get comfortable with git and github.
